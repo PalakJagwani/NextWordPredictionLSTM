@@ -58,6 +58,11 @@ https://github.com/PalakJagwani/NextWordPredictionLSTM.git
 cd NextWordPredictionLSTM
 ```
 
+## Live link for the project
+```
+https://nextwordpredictionlstm-3gqkuony7gwgkpefrzbhwx.streamlit.app/
+```
+
 ## Learnings from Krish Naik’s Course
 - This project was completed as part of the Data Science and Machine Learning Bootcamp by Krish Naik on Udemy. The course provided in-depth knowledge on deep learning techniques, including:
 - Understanding and building LSTM-based models.
